@@ -12,7 +12,7 @@
 - [For loop](python/for-loop)
 - [while loop](python/while-loops)
 - [Boolean values](python/boolean-values)
-- [Try and except](python/try-excep)
+- [Try and except](python/try-except)
 - [Visual studio code](python/visual-studio-code)
 
 ## Projects for beginners
