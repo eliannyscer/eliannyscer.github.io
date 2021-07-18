@@ -6,6 +6,8 @@ There are three numeric types in Python. Variables of numeric types are created 
 
 Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
 
+`Example:`
+
 ```python
 e = 2
 l = 19958336363838373
@@ -16,9 +18,9 @@ print(type(l))
 print(type(i)) 
 ```
 
-`Output`
+`Output:`
 
-```python
+```text
 <class 'int'>
 <class 'int'>
 <class 'int'>
@@ -29,6 +31,8 @@ print(type(i))
 - Integer division produces a floating point result
 - This was different in python 2
 
+`Example:`
+
 ```python
 print (8/2)
 print (7/2)
@@ -36,7 +40,7 @@ print(99/100)
 print (6.1/ 1.0)
 ```
 
-`Output` As a result you can see that everyone have decimal, even if is a whole number
+`Output:` As a result you can see that everyone have decimal, even if is a whole number
 
 ```python
 4.0
@@ -48,6 +52,8 @@ print (6.1/ 1.0)
 ## float
 
 Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
+
+`Example:`
 
 ```python
 e = 2.6
@@ -61,7 +67,7 @@ print(type(i))
 
 `Output`:
 
-```python
+```txt
 <class 'float'>
 <class 'float'>
 <class 'float'>
@@ -81,7 +87,9 @@ print(type(e))
 
 ## complex
 
-Complex numbers are used in many applications related to mathematics. For example, an electric circuit which is defined by voltage(V) and scientific calculations and others calculus and python provides useful tools to manipulate the
+Complex numbers are used in many applications related to mathematics. For example, an electric circuit which is defined by voltage(V) and scientific calculations and others calculus and python provides useful tools to manipulate them.
+
+`Example:`
 
 ```python
 e = 2 + 6j
@@ -94,7 +102,7 @@ print(type(i))
 
 `Output`:
 
-```python
+```txt
 <class 'complex'>
 <class 'complex'>
 <class 'complex'>
@@ -106,7 +114,7 @@ In Electronics ‘i’ is used to represent current and hence they use ‘j’ t
 
 You can convert from one type to another with the int(), float(), and complex() methods.
 
-### convert from int to float
+`Example` - Convert from int to float:
 
 ```python
 e = 2
@@ -119,7 +127,7 @@ print(type(a))
 <class 'float'>
 ```
 
-### convert from float to int
+`Example` - Convert from float to int:
 
 ```python
 l = 2.6
@@ -132,7 +140,7 @@ print(type(b))
 <class 'int'>
 ```
 
-### convert from int to complex
+`Example` - Convert from int to complex:
 
 ```python
 e = 2
@@ -152,7 +160,7 @@ print(type(c))
 - You can also use `int()` and `float()` to convert between strings and integers
 - You will get an error if the string does not contain numeric characters
 
-Example: If you try to mix a string with a integer you will have a error:
+`Example:` If you try to mix a string with a integer you will have a error:
 
 ```python
 number = "123"
@@ -184,7 +192,9 @@ print(number1 + 1)
 Can be used to make random numbers. Import the random module, and display a random number between  the number that you define.
 The random module has several methods, for this example i will show 2 with the result:
 
-randrange /randint= Returns a random number between the given range
+randrange /randint= Returns a random number between the given range.
+
+`Example:`
 
 ```python
 import random
