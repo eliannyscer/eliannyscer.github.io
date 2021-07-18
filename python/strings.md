@@ -2,6 +2,8 @@
 
 Strings can be created by enclosing characters inside a single quote or double-quotes and the output will be the same. They are immutable, you can't modify the content.
 
+`Example:`
+
 ```python
 'Hello' is the same that "Hello" 
 ```
@@ -16,7 +18,9 @@ You can't mix both quotes as start to write with single quote and close with dou
 
 ## To assign string to a variable
 
-Assigning a string to a variable is done with the variable name followed by an equal sign and the string:
+Assigning a string to a variable is done with the variable name followed by an equal sign and the string.
+
+`Example:`
 
 ```python
 name = "Ellie"
@@ -27,6 +31,8 @@ Ellie
 ## Check string
 
 To check if a  phrase or character is present in a string, we can use `the keyword in`.
+
+`Example:`
 
 ```python
 phrase= "To have a good life you only need to be happy"
@@ -39,6 +45,8 @@ False
 ## Check if NOT
 
 To check if a  phrase or character is `NOT` present in a string, we can use `the keyword not in`.
+
+`Example:`
 
 ```python
 a = "Your are learning python"
@@ -61,6 +69,8 @@ False
 
 To be able to remove the string entirely you new to use the `del` keyword.
 
+`Example:`
+
 ```python
 name = "Ellie"
 del name
@@ -75,6 +85,8 @@ NameError: name 'name' is not defined
 
 Strings are immutable. This means that elements of a string cannot be changed once they have been assigned. We can simply reassign different strings to the same name.
 
+`Example:`
+
 ```python
 name = "Louis"
 name = "Ellie"
@@ -85,6 +97,8 @@ Ellie
 ## String Length
 
 To get the length of a string, use the len() function.
+
+`Example:`
 
 ```python
 names = "Louis and Peter"
@@ -99,6 +113,8 @@ print(len(b))
 ## Multiline Strings
 
 Are delimited by `3 quotes` characters and the new lines are represented by the `\n`. You can use single o double quotes.
+
+`Example:`
 
 ```python
 """This is
