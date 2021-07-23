@@ -1,4 +1,4 @@
-# Hash  table or Hashmap
+# Hash table or Hashmap
 
 ## What is Hash Table or Hash Map?
 
@@ -6,11 +6,11 @@ In short, Hash table is a data structure which stores data in an associative man
 
 ## How to Implement Hash Map in Python?
 
-Well if you’re looking for implementation of hash map in python then the answer is Dictionary. Python Dictionary is a built-in type that supports key-value pairs
+Well if you’re looking for implementation of hash map in python then the answer is Dictionary. Python Dictionary is a built-in type that supports key-value pairs.
 
 ## Key features
 
-* The key is unique and immutable
-* Ideal hashing should produce a different index for each key
-* In Python, dictionaries are examples of hash maps
-* In general, hash tables store key-value pairs and the key is generated using a hash function
+* The key is unique and immutable.
+* Ideal hashing should produce a different index for each key.
+* In Python, dictionaries are examples of hash maps.
+* In general, hash tables store key-value pairs and the key is generated using a hash function.
