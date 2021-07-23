@@ -39,12 +39,12 @@ Our code it's not executed, this is because our shoes order is not equal to blac
 
 If a condition is true, the if statement executes. Otherwise, the else statement executes.
 
-Suppose we create an application that verifies the use of gift cards, the maximum limit will be $ 40. 
+Suppose we create an application that verifies the use of gift cards, the maximum limit will be $ 40.
 
 If the user exceeds $ 40, he will not be able to continue buying.
 If the user has not exceeded that amount, he can continue buying.
 
-Example:
+`Example:`
 
 ```python
 card = "15.98$"
@@ -68,12 +68,15 @@ In some cases, we may want to evaluate multiple conditions and create outcomes f
 
 They appear after a Python if statement and before an else statement. You can use as many `elif` statements as you want.
 
-Suppose that you want to have different prices together. You could use a similar code:
+`Example` - Suppose that you want to have different prices together. You could use a similar code:
 
-Orange cake: $3.99
-Chocolate cookie: $1.00
-Cheese cake: There is not available today
-Others cakes: $2.80
+`Orange cake:` $3.99
+
+`Chocolate cookie:` $1.00
+
+`Cheese cake:` There is not available today
+
+`Others cakes:` $2.80
 
 ```python
 cake_order = "Orange cake"

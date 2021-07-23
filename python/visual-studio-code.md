@@ -6,13 +6,9 @@ From the File Explorer toolbar, select the New File button or ctrl n. Name the f
 
 It's very comfortable to work because when you start typing you have the auto-completion options.
 
-PICTURE
-
 ## Run your program
 
 It's simple to run title.py with Python. Just click the Run Python File in Terminal play button in the top-right side of the editor.
-
-PICTURE
 
 `The button opens a terminal panel in which your Python interpreter is automatically activated.`
 
@@ -28,7 +24,6 @@ If you examine the Local variables window at this point, you will see now define
 
 `A debug toolbar appears along the top with the following commands from left to right: continue (F5), step over (F10), step into (F11), step out (Shift+F11), restart (Ctrl+Shift+F5), and stop (Shift+F5).`
 
-PICTURE
 
 The Status Bar also changes color (orange) to indicate that you're in debug mode.
 

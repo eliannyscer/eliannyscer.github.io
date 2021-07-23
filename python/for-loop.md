@@ -2,6 +2,8 @@
 
 With this function we can execute a set of statements. It is used when you need to check in a condition each iteration, or to repeat a block of code.
 
+`Example:`
+
 ```python
 countries = ["Spain", "France", "Italy", "Greece"]
 for country in countries:
@@ -19,7 +21,9 @@ Greece
 
 ## Break statement
 
-With this statement we can stop the loop before finish:
+With this statement we can stop the loop before finish.
+
+`Example:`
 
 ```python
 countries = ["Spain", "France", "Italy", "Greece"]
@@ -41,6 +45,8 @@ Italy
 
 This one is similar to the other, the different is that we can stop the current iteration of the loop and continue with the next.
 
+`Example:`
+
 ```python
 countries = ["Spain", "France", "Italy", "Greece"]
 for  x in countries:
@@ -60,6 +66,8 @@ Greece
 ## Looping through a string
 
 With this function we can print each letter of a string in a single line after the loop.
+
+`Example:`
 
 ```python
 for x in "France":
@@ -81,7 +89,7 @@ There is only 1 letter in every line.
 
 ## The range() function
 
-The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.
+This function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.
 
 ### Syntax
 
@@ -91,7 +99,7 @@ The range() function returns a sequence of numbers, starting from 0 by default, 
 - `stop` = Required. An integer number specifying at which position to stop (not included).
 - `step` = Optional. Default is 1.
 
-EXAMPLE:
+`Example:`
 
 ```python
 for x in range(6):
@@ -100,7 +108,7 @@ for x in range(6):
 
 `Output`: We can see here that for default is counting one by one, start in 0 and finished in 5 because was the only value that we define.
 
-```python
+```txt
 0
 1
 2
@@ -131,7 +139,7 @@ for x in range(5,30,5):
 
 The else keyword in a for loop specifies a block of code to be executed when the loop is finished. 
 
-`Example`: Print all numbers from 0 to 4, and print a message when the loop ends
+`Example` - Print all numbers from 0 to 4, and print a message when the loop ends:
 
 ```python
 for x in range(4):
@@ -142,7 +150,7 @@ else:
 
 `Output`:
 
-```python
+```txt
 0
 1
 2
@@ -152,7 +160,7 @@ Time to start!
 
 `Note: The else block will NOT be executed if the loop is stopped by a break statement.`
 
-Example: Break the loop when x is "Three":
+`Example` - Break the loop when x is "Three":
 
 ```python
 numbers =  ["One", "Two", "Three", "Four"]
@@ -175,7 +183,9 @@ Two
 
 - For loops `cannot be empty`, but if you for some reason have a for loop with no content, use the `pass` statement to avoid getting an error.
 - The pass statement is a null operation; nothing happens when it is executed.
-- The pass is also useful in places where your code will eventually go, but has not been written yet
+- The pass is also useful in places where your code will eventually go, but has not been written yet.
+
+`Example:`
 
 ```python
 numbers =  ["One", "Two", "Three", "Four"]
@@ -199,7 +209,9 @@ Hello everyone!
 
 ## Nested Loops 
 
-A nested loop is a loop inside a loop:
+A nested loop is a loop inside a loop.
+
+`Example:`
 
 ```python
 color = ["White", "Black", "Brown"]

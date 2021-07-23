@@ -2,17 +2,18 @@
 
 the collection is mutable and the elements can be added and removed to the set. The set are very similar to the dictionaries, limited by curly brackets but every item is a single objet separated by a colon
 
-Sets are iterable althoght the order is arbitrary. You can mis letter and numbers.
+Sets are iterable although the order is arbitrary. You can mis letter and numbers.
+
+`Example:`
 
 ```python
-
 set = {"apple", "pineapple", "grapes"}
 print(set) 
 ```
 
-`Output`
+`Output:`
 
-```python
+```txt
 {'pineapple', 'apple', 'grapes'}
 ```
 
@@ -20,15 +21,17 @@ print(set)
 
 ## Set Items
 
-Set items are unordered, unchangeable, and do not allow duplicate values.
+- Set items are unordered, unchangeable, and do not allow duplicate values.
 
 - Unordered: Means that the items in a set do not have a defined order. Set items can appear in a different order every time you use them, and cannot be referred to by index or key.
 
--Unchangeable: Means that we cannot change the items after the set has been created.
+- Unchangeable: Means that we cannot change the items after the set has been created.
 
 ## In and not in operator
 
-with this function you can check if a item is present or not in the code using `in` or in `not`
+with this function you can check if a item is present or not in the code using `in` or in `not`.
+
+`Example:`
 
 ```python
 #in
@@ -40,7 +43,7 @@ letters = {"s", "m", 2, "h"}
 print(2 not in letters)
 ```
 
-`Output` As a result will be executed answering `True` or `False`:
+`Output` - As a result will be executed answering `True` or `False`:
 
 ```python
 True
@@ -51,14 +54,16 @@ False
 
 Sets cannot have two items with the same value.
 
+`Example:`
+
 ```python
 letters = {"s", "m", "s", "h"}
 print(letters)
 ```
 
-`Output` As a result you will see that the item that al ready exists is not present.
+`Output` - As a result you will see that the item that al ready exists is not present.
 
-```python
+```text
 {'m', 's', 'h'}
 ```
 
@@ -66,15 +71,17 @@ print(letters)
 
 Once a set is created, you cannot change its items, but you can add new items.
 
+`Example:`
+
 ```python
 letters = {"s", "m", 2, "h"}
 letters.add("y")
 print(letters)
 ```
 
-`Output` We have this result because the order is arbitrary in the sets
+`Output` - We have this result because the order is arbitrary in the sets:
 
-```python
+```txt
 {'h', 2, 'm', 's', 'y'}
 ```
 
@@ -86,6 +93,7 @@ The update() method updates the current set, by adding items from another set.
 
 If an item is present in both sets, only one appearance of this item will be present in the updated set.
 
+`Example:`
 
 ```python
 letters = {"s", "m", "a", "h"}
@@ -93,9 +101,9 @@ letters.update(["r","w", "u"])
 print(letters)
 ```
 
-`Output`
+`Output:`
 
-```python
+```txt
 {"a", 's', 'r', 'w', 'u', 'm', 'h'}
 ```
 
@@ -109,7 +117,7 @@ print(x)
 
 `Output`:
 
-```python
+```txt
 {'m', 2, 's', 'h'}
 ```
 
@@ -117,11 +125,13 @@ print(x)
 
 To determine how many items a set has, use the len() method.
 
+`Example:`
+
 ```python
 letters = {"s", "m, "h"}
 print(len(letters))
 
-#Output
+# Output:
 3
 ```
 
@@ -131,13 +141,15 @@ print(len(letters))
 letters = {"s", "m, "s", "h"}
 print(len(letters))
 
-#Output
+# Output:
 3
 ```
 
 ## Remove
 
-With this function y you can delete specific item but delete a items that is not present in the set produce error:
+With this function y you can delete specific item but delete a items that is not present in the set produce error.
+
+`Example:`
 
 ```python
 letters = {"s", "m", 2, "h"}
@@ -145,9 +157,9 @@ letters.remove("s")
 print(letters)
 ```
 
-`Output`
+`Output:`
 
-```python
+```txt
 {2, 'h', 'm'}
 ```
 
@@ -165,7 +177,7 @@ The discard() method removes the specified item from the set.
 
 This method is different from the remove() method, because the remove() method will raise an error if the specified item does not exist, and the discard() method will not.
 
-- removing existing item:
+`Example` - Removing existing item:
   
 ```python
 
@@ -174,7 +186,7 @@ letters.discard("e")
 print(letters)
 ```
 
--removing an item that doesn't exist:
+`Example` - Removing an item that doesn't exist:
 
 ```python
 letters = set(("e", "f", "t"))
@@ -182,7 +194,7 @@ letters.discard("h")
 print(letters)
 ```
 
-`Output`: In the first output you can see that the item was removed and in the second one you can see that nothing happened.
+`Output`- In the first output you can see that the item was removed and in the second one you can see that nothing happened.
 
 ```python
 {'f', 't'}
@@ -197,7 +209,9 @@ KeyError: 'x'
 
 ## Clear
 
-method doesn't return any value, the result is to have a empty set:
+method doesn't return any value, the result is to have a empty set.
+
+`Example:`
 
 ```python
 letters = set(("e", "f", "t"))
@@ -205,15 +219,17 @@ letters.clear()
 print(letters)
 ```
 
-`Output`
+`Output:`
 
-```python
+```txt
 set()
 ```
 
 ## Set Items - Data Types
 
 You can mix numbers, letter, word or even you can use true or false.
+
+`Example:`
 
 ```python
 set1= {True, True, False} 
@@ -222,9 +238,9 @@ set3 = {5, 10, 15, 20, 25}
 print(set1,set2,set3)
 ```
 
-`Output`
+`Output:`
 
-```python
+```txt
 {False, True} {'pineapple', 'grapes', 'apple'} {5, 10, 15, 20, 25}
 ```
 
@@ -232,13 +248,15 @@ print(set1,set2,set3)
 
 It is also possible to use the set() constructor to make a set. 
 
+`Example:`
+
 ```python
 letters = set(("e", "f", "t"))
 print(letters)
 ```
 
-`Output`: You can see that i don't was using curly brackets
+`Output`- You can see that i don't was using curly brackets.
 
-```python
+```txt
 {'f', 'e', 't'}
 ```
