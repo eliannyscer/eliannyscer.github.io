@@ -1,8 +1,7 @@
 ---
 title: "Vocabulary"
 categories:
-
-  - Blog
+  - Programming
 tags:
   - Python
 ---

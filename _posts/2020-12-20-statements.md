@@ -1,8 +1,7 @@
 ---
 title: "Statements"
 categories:
-
-- Blog
+- Programming
 tags:
 - Python
 ---

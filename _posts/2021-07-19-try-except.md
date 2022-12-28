@@ -1,8 +1,7 @@
 ---
 title: "Python Try Except"
 categories:
-
-- Blog
+- Programming
 tags:
 - Python
 ---

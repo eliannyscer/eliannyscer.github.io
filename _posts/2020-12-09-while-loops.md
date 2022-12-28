@@ -1,8 +1,7 @@
 ---
 title: "While Loops"
 categories:
-
-- Blog
+- Programming
 tags:
 - Python
 ---

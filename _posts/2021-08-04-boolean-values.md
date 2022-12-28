@@ -1,8 +1,7 @@
 ---
 title: "Boolean Values"
 categories:
-
-  - Blog
+  - Programming
 tags:
   - Python
 ---

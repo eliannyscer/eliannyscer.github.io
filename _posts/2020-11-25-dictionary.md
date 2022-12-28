@@ -1,8 +1,7 @@
 ---
 title: "Dictionary Function"
 categories:
-
-  - Blog
+  - Programming
 tags:
   - Python
 ---
