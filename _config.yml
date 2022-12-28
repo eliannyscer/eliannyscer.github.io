@@ -1,5 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Eliannys Cermeño
 description: My blog
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
