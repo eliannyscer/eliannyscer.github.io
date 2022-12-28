@@ -24,6 +24,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eliannyscer"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCRuFMMCRb9Mev0iNTZ_3X4g"
 
 include:
   - _pages
@@ -63,3 +66,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+footer:
+  links:
+    links:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/eliannys-cermeno/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/eliannyscer"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCRuFMMCRb9Mev0iNTZ_3X4g"
