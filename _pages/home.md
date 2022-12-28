@@ -1,7 +1,7 @@
 ---
-title: "Splash Page"
+title: "Eliannys Cermeño"
 layout: splash
-permalink: /splash-page/
+permalink: /home/
 
 header:
   overlay_color: "#000"
