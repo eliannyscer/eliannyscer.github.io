@@ -19,7 +19,7 @@ author:
   bio    : "I am thinking.."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eliannys-cermeno/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
