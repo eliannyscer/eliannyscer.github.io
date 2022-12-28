@@ -6,6 +6,8 @@ tags:
   - Python
 ---
 
+{% include video id="_Bi7i7kyTuM" provider="youtube" %}
+
 In programming you often need to know if an expression is `True` or `False`.
 When you compare two values, there is only two possible answers,
 the expression is evaluated and Python returns the Boolean answer:

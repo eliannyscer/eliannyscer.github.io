@@ -6,6 +6,8 @@ tags:
 - Python
 ---
 
+{% include video id="rhz2zBeL3mY" provider="youtube" %}
+
 From the File Explorer toolbar, select the New File button or ctrl n. Name the file how you prefer "title`.py`". By using the `.py` file extension, you tell visual studio code to interpret this file as a Python program, so that it evaluates the contents with the Python.
 
 `Note:` The File Explorer toolbar also allows you to create folders  to better organize your code. You can use the New folder button to quickly create a folder.

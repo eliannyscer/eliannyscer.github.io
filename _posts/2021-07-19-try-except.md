@@ -6,6 +6,8 @@ tags:
 - Python
 ---
 
+{% include video id="j2kTcc1lcK8" provider="youtube" %}
+
 - With the `try` function you can test a block of code for errors.
 
 - The `except` block allow you handle or manipulate the error.
