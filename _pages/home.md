@@ -1,7 +1,7 @@
 ---
 title: "Eliannys Cermeño"
 layout: splash
-permalink: /
+permalink: /home/
 
 header:
   overlay_color: "#000"
