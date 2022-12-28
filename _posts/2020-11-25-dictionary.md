@@ -6,6 +6,8 @@ tags:
   - Python
 ---
 
+{% include video id="vIiFpaTpAr0" provider="youtube" %}
+
 It's a fundamental data structure in python, are mutable and we can always add new items after the dictionary has been created.
 
 The `dict()` function creates a dictionary.
