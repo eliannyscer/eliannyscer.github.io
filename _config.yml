@@ -1,7 +1,7 @@
 title: Eliannys Cermeño
 description: My blog
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 plugins:
