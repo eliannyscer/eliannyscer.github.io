@@ -43,8 +43,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 defaults:
   # _posts
   - scope:
-      path: "/home/"
-      type: home
+      path: ""
+      type: posts
     values:
       layout: splash
       author_profile: true
