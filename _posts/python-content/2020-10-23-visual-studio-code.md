@@ -1,7 +1,5 @@
 ---
 title: "Create a python document in Visual studio code"
-categories:
-- Programming
 tags:
 - Python
 ---

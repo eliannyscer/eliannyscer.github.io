@@ -1,7 +1,5 @@
 ---
 title: "Statements"
-categories:
-- Programming
 tags:
 - Python
 ---
