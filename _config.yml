@@ -1,5 +1,5 @@
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 title: Eliannys Cermeño
-description: My programming blog pages
+description: My blog
 plugins:
   - jekyll-include-cache
