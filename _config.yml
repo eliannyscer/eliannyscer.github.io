@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 title: Eliannys Cermeño
 description: My programming blog pages
+plugins:
+  - jekyll-include-cache
