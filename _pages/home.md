@@ -14,7 +14,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Python"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#programming"
+    url: "/tags/#python"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path:
