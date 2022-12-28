@@ -1,4 +1,11 @@
-# Statements
+---
+title: "Statements"
+categories:
+
+- Blog
+tags:
+- Python
+---
 
 Conditional statements allow you to control the flow of your program more effectively.
 The statements "In, if and else" evaluate when an expression is true or false. If a condition its true the "if" statements execute.

@@ -1,4 +1,11 @@
-# Create a python document in Visual studio code
+---
+title: "Create a python document in Visual studio code"
+categories:
+
+- Blog
+tags:
+- Python
+---
 
 From the File Explorer toolbar, select the New File button or ctrl n. Name the file how you prefer "title`.py`". By using the `.py` file extension, you tell visual studio code to interpret this file as a Python program, so that it evaluates the contents with the Python.
 

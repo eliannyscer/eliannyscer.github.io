@@ -1,4 +1,11 @@
-# Python Try Except
+---
+title: "Python Try Except"
+categories:
+
+- Blog
+tags:
+- Python
+---
 
 - With the `try` function you can test a block of code for errors.
 

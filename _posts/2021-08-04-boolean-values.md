@@ -1,9 +1,10 @@
 ---
 title: "Boolean Values"
 categories:
+
   - Blog
 tags:
-  - Post Formats
+  - Python
 ---
 
 In programming you often need to know if an expression is `True` or `False`.

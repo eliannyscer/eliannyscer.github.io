@@ -1,6 +1,7 @@
 ---
-title: "Dict() Function"
+title: "Dictionary Function"
 categories:
+
   - Blog
 tags:
   - Python
