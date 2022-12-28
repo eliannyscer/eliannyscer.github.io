@@ -1,4 +1,10 @@
-# Boolean Values
+---
+title: "Boolean Values"
+categories:
+  - Blog
+tags:
+  - Post Formats
+---
 
 In programming you often need to know if an expression is `True` or `False`.
 When you compare two values, there is only two possible answers,
