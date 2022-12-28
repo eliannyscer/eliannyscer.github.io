@@ -11,7 +11,7 @@ header:
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: 
+  - image_path: /assets/images/power-bi.png
     alt: "placeholder image 1"
     title: "Python"
     excerpt: ""
