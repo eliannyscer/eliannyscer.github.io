@@ -15,7 +15,7 @@ plugins:
 
 author:
   name   : "Eliannys Cermeño"
-  avatar : "eliannyscer/eliannyscer.github.io/assets/images/eliannys.jpg"
+  avatar : "/assets/images/eliannys.jpg"
   bio    : "I am thinking.."
   links:
     - label: "Linkedin"
