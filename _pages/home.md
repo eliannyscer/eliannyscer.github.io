@@ -18,7 +18,7 @@ feature_row:
     url: "/tags/#python"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path:
+  - image_path:/assets/images/python.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Power BI"
