@@ -1,5 +1,9 @@
 title: Eliannys Cermeño
 description: My blog
+
+minimal_mistakes_skin: default
+search: true
+
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
