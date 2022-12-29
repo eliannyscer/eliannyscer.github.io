@@ -16,7 +16,7 @@ plugins:
 author:
   name: "Eliannys Cermeño"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am thinking.."
+  bio: "Technical Analyst at Stratesys"
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"

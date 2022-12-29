@@ -7,13 +7,13 @@ tags:
 ## Reserved Words
 
 Are special words with special meaning, for example, if you use "Else" there ir not other word that python implement in that way.
- When you use this words python don't allow you to use for other purpose, only the purpose that python want or understand and you can not use this name as a variable.
+When you use this words python don't allow you to use for other purpose, only the purpose that python want or understand and you can not use this name as a variable.
 
- `Example:` You are in other country like France with a language different to yours and you try to communicate in your language, probably anybody will understand you, but if you some words in french the people will know what you want or try to said, is the same with this words, if you use in a different way python will not execute your command because don't understand what you want to use if you want use for a different propose.
+`Example:` You are in other country like France with a language different to yours and you try to communicate in your language, probably anybody will understand you, but if you some words in french the people will know what you want or try to said, is the same with this words, if you use in a different way python will not execute your command because don't understand what you want to use if you want use for a different propose.
 
- For python is like:
- You: Class
- python: I know what that mean.. Execute!
+For python is like:
+You: Class
+python: I know what that mean.. Execute!
 
 - false and true
 - none
