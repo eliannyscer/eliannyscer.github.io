@@ -14,9 +14,9 @@ plugins:
   - jemoji
 
 author:
-  name   : "Eliannys Cermeño"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am thinking.."
+  name: "Eliannys Cermeño"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am thinking.."
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
@@ -39,6 +39,18 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+footer:
+  links:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/eliannys-cermeno/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/eliannyscer"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCRuFMMCRb9Mev0iNTZ_3X4g"
 
 defaults:
   # _posts
