@@ -1,5 +1,8 @@
 ---
-title: "My blog"
+title: "My blog
+kkkkkkkk
+kkkkkkkk
+kkkkkkkk"
 layout: splash
 permalink: /
 
