@@ -4,6 +4,8 @@ tags:
   - Python
 ---
 
+Is a data type that has one of two possible values (usually denoted true and false).
+
 {% include video id="_Bi7i7kyTuM" provider="youtube" %}
 
 In programming you often need to know if an expression is `True` or `False`.

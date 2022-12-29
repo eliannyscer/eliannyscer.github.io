@@ -7,6 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Banner.png
 ---
+I am a lawyer by profession although life has taken me on different paths and a few years ago I started my adventure in the world of technology.
 
 I am a Technical and Data Analyst currently working with SAP Analytics Cloud and learning Power BI. In my free time I am studying artificial intelligence and machine learning because I like to learn and  
 always improving.

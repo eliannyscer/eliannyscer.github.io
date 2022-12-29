@@ -4,6 +4,8 @@ tags:
 - Python
 ---
 
+Exceptions in Python applications can happen for many of reasons; and if they aren't handled well, these exceptions can cause the program to crash or causing data loss.
+
 {% include video id="j2kTcc1lcK8" provider="youtube" %}
 
 - With the `try` function you can test a block of code for errors.
