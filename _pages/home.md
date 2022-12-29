@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_1:
+feature_row1:
   - image_path: /assets/images/power-bi.png
     body-color: #5e616c
     alt: "placeholder image 2"
@@ -35,4 +35,4 @@ feature_row_1:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 {% include feature_row id="image_path" type="left" %}
-{% include feature_row_1 id="image_path" type="left" %}
+{% include feature_row1 id="image_path" type="left" %}
