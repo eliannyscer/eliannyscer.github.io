@@ -3,7 +3,6 @@ title: "What are local variables and global variables in Python?"
 tags:
 - FAQ
 ---
-
 ## Global variable
 
 It is defined and declared outside a function and we need to use them inside a function. These variables can be accessed by any function in the program.
