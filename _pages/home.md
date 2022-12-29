@@ -22,6 +22,7 @@ feature_row:
 
 feature_row_1:
   - image_path: /assets/images/power-bi.png
+    body-color: #5e616c
     alt: "placeholder image 2"
     title: "Power BI"
     excerpt: "It provides interactive visualizations and high-end analytics capabilities that help everyone to make smarter, real-time decisions."
