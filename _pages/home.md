@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bio-photo.jpg
+  overlay_image: /assets/images/mean_stack.png
  
 intro: 
   - excerpt: ''
