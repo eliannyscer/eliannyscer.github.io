@@ -4,9 +4,9 @@ tags:
 - Python
 ---
 
-{% include video id="RT8YgqoY234" provider="youtube" %}
-
 With the while loop we can execute a set of statements as long as a condition is true.
+
+{% include video id="RT8YgqoY234" provider="youtube" %}
 
 ## Syntax
 
