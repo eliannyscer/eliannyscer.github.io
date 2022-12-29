@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/Banner.png
 
 intro: 
-  - excerpt: " Articles and tutorials about python and data analysis"
+  - excerpt: " Articles and tutorials about python and data analysis."
 feature_row:
   - image_path: /assets/images/python.jpg
     alt: "placeholder image 1"

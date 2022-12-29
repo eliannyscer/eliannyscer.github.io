@@ -1,5 +1,5 @@
 ---
-title: "Dictionary Function"
+title: "Dictionary"
 tags:
 - Python
 ---
