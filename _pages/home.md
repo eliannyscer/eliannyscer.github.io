@@ -1,18 +1,16 @@
 ---
-title: "My blog
-kkkkkkkk
-kkkkkkkk
-kkkkkkkk"
+title: "My blog"
 layout: splash
 permalink: /
 
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/computer.jpg
+  overlay_image: /assets/images/mean_stack.png
+  excerpt: "Articles and tutorials about python and data analysis"
  
 intro: 
-  - excerpt: 'Articles and tutorials about python and data analysis'
+  - excerpt: ""
 feature_row:
   - image_path: /assets/images/python.jpg
     alt: "placeholder image 1"
