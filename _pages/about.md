@@ -8,8 +8,9 @@ header:
   overlay_image: /assets/images/Banner.png
 ---
 
+I am a Technical and Data Analyst currently working with SAP Analytics Cloud and learning Power BI. In my free time I am studying artificial intelligence and machine learning because I like to learn and  
+always improving.
 
+I am here to accompany you in your journey, sharing articles and videos of python and data analysis that can be useful for you.
 
-I am Technical and Data Analyst currently working with SAP Analytics Cloud and Power BI (currently learning and preparing for certifications).
-
-In my free time I am studying artificial intelligence and machine learning.
+I managed to get a job in the area of technology without having any previous knowledge and now I want to share what I have learned in this time with you so that if this is also your goal you can achieve it and if you do not maybe any of my articles can be useful in the same way.
