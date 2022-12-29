@@ -1,8 +1,14 @@
 ---
 permalink: /about/
 title: "About"
-image_path: /assets/images/mean_stack.png
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/mean_stack.png
 ---
+
+
 
 I am Technical and Data Analyst currently working with SAP Analytics Cloud and Power BI (currently learning and preparing for certifications).
 
