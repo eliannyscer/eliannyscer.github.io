@@ -11,14 +11,14 @@ header:
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: /assets/images/power-bi.png
+  - image_path: /assets/images/python.jpg
     alt: "placeholder image 1"
     title: "Python"
     excerpt: ""
     url: "/tags/#python"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/python.jpg
+  - image_path: /assets/images/power-bi.png
     alt: "placeholder image 2"
     title: "Power BI"
     excerpt: ""
