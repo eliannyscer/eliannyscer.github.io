@@ -1,7 +1,7 @@
 ---
 title: "Python Try Except"
 tags:
-- Python
+  - Python
 ---
 
 Exceptions in Python applications can happen for many of reasons; and if they aren't handled well, these exceptions can cause the program to crash or causing data loss.

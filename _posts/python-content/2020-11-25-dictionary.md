@@ -1,7 +1,7 @@
 ---
 title: "Dictionary"
 tags:
-- Python
+  - Python
 ---
 
 {% include video id="vIiFpaTpAr0" provider="youtube" %}
