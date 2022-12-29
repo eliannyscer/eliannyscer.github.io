@@ -19,6 +19,8 @@ feature_row:
     url: "/tags/#python"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_1:
   - image_path: /assets/images/power-bi.png
     alt: "placeholder image 2"
     title: "Power BI"
@@ -27,9 +29,9 @@ feature_row:
     btn_label: "Comming soon.."
     btn_class: "btn--primary"
 
-
 ---
 
 {% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
+{% include feature_row id="image_path" type="left" %}
+{% include feature_row_1 id="image_path" type="left" %}
