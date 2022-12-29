@@ -1,7 +1,7 @@
 ---
 title: "Create a python document in Visual studio code"
 tags:
-- Python
+  - Python
 ---
 
 {% include video id="rhz2zBeL3mY" provider="youtube" %}
