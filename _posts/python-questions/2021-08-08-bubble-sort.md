@@ -1,7 +1,7 @@
 ---
 title: "What is a Bubble sort algorithm?"
 tags:
-  - Exercises
+  - Python exercises
 ---
 
 `Bubble sort`
