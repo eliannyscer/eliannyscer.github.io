@@ -1,7 +1,7 @@
 ---
 title: "How to check if a number is prime?"
 tags:
-  - exercises
+  - Exercises
 ---
 
 ```python

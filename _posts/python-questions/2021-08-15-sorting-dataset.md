@@ -1,7 +1,7 @@
 ---
 title: "How to sort an algorithm for a numerical dataset?"
 tags:
-  - exercises
+  - Exercises
 ---
 
 The Python language, like many other high-level programming languages, offers the ability to sort data out of the box using `sort()`. You can use to sort any list as long as the values inside are comparable.

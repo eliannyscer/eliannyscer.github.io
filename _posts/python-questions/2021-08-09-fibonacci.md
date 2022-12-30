@@ -1,7 +1,7 @@
 ---
 title: "How to produce a fibonacci serie in Python?"
 tags:
-  - exercises
+  - Exercises
 ---
 
 `What is Fibonacci Series?` - It is a series of numbers formed by the sum of the two preceding numbers in the series.

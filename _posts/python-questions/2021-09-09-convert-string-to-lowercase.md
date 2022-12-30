@@ -1,7 +1,7 @@
 ---
 title: "How will you convert a string to all lowercase?"
 tags:
-  - exercises
+  - Exercises
 ---
 
 
