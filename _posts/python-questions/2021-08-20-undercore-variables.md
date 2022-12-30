@@ -1,7 +1,7 @@
 ---
 title: "Why are local variable names beginning with an underscore?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 `A)` They are used to indicate a private variables of a class.
