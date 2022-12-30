@@ -1,5 +1,5 @@
 ---
-title: "# What is type conversion in Python?"
+title: "What is type conversion in Python?"
 tags:
   - Python FAQ
 ---
