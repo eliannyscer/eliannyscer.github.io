@@ -1,7 +1,7 @@
 ---
 title: "What are Python libraries?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 It is a collection of files (known as Modules) that contains functions for use by other programs. Libraries allows you to perform lots of actions without writing your own code, this mean that are a reusable piece of code that we can add to our programmes. Some examples: Numpy, Pandas, Pygames, Matplotlib.

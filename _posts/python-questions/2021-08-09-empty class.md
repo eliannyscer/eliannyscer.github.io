@@ -1,7 +1,7 @@
 ---
 title: "How to create an empty class in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 To write an empty class we use the `pass` statement, it is a special statement in Python that does nothing. It only works as a dummy statement. Objects of an empty class can also be created.

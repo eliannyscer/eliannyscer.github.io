@@ -1,7 +1,7 @@
 ---
 title: "How can the ternary operators be used in python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Also known as `conditional expressions`. It is used to return a value based on the result of a binary condition. It takes binary value(condition) as an input, so it looks similar to an `if-else` condition block. However, it also returns a value so behaving similar to a function.

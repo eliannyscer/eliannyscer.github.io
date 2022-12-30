@@ -1,7 +1,7 @@
 ---
 title: "How is memory managed in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 1. Memory management in python is managed by Python private space. All objects and data structures are located in a private place. The programmer does not have access, the python interpreter takes care of this instead.

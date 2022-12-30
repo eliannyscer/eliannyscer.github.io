@@ -1,7 +1,7 @@
 ---
 title: "How do you do data abstraction in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 * Data Abstraction is providing only the required details and hiding the implementation from the world. It can be achieved in Python by using interfaces and abstract classes.

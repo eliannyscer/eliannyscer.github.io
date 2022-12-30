@@ -1,7 +1,7 @@
 ---
 title: "How to remove values to a python array?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Array elements (list) can be removed using `pop()` or `remove()` method. The difference between these two functions is that the first one returns the deleted value and work with the index while the second does not returns the deleted value and work with the name of the item.

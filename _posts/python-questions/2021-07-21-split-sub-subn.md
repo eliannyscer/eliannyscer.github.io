@@ -1,7 +1,7 @@
 ---
 title: "Explain split(), sub(), subn() methods of “re” module in Python"
 tags:
-  - Python questions
+  - Python question
 ---
 
 ## Regular expression

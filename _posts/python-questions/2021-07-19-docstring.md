@@ -1,7 +1,7 @@
 ---
 title: "What are docstrings in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 * Python documentation strings (or docstrings). It is used like a comment, to `document` a specific segment of code.

@@ -1,7 +1,7 @@
 ---
 title: "What does [::-1] do?"
 tags:
-  - Python questions
+  - Python question
 ---
 It means that for a given string/list/tuple, you can slice the said object using the format:
 

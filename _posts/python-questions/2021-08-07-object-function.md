@@ -1,7 +1,7 @@
 ---
 title: "What does an object() do?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 * The `object()` function returns an empty object.

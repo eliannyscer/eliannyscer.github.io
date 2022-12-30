@@ -1,7 +1,7 @@
 ---
 title: "How to check if a sequence is a Palindrome?"
 tags:
-  - Python exercises
+  - Python exercise
 ---
 
 A string is said to be palindrome if the reverse of the string is the same string.

@@ -1,7 +1,7 @@
 ---
 title: "How can you randomize the items of a list in place in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 The random module provides a `shuffle()` function that returns a sequence with its elements randomly.

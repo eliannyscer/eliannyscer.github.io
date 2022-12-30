@@ -1,7 +1,7 @@
 ---
 title: "What mean Inheritance"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Inheritance is the `capability` of one class to `derive` or inherit the `properties` from another class. It provides code reusability, makes it easier to create and maintain an application. The class from which we are inheriting is called `base or parent-class` and the class that is inherited is called a `derived / child class`.

@@ -1,7 +1,7 @@
 ---
 title: "How are classes created in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Python is an object oriented programming language. Almost everything is an object, with its properties and methods. A Class is like an object constructor, or a "blueprint" for creating objects.

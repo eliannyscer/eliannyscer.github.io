@@ -1,7 +1,7 @@
 ---
 title: "How to produce a star triangle?"
 tags:
-  - Python exercises
+  - Python exercise
 ---
 
 The primary purpose of creating this program is to explain the concept of the loop in the Python program in a simple example.

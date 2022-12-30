@@ -1,7 +1,7 @@
 ---
 title: "What is pickling and unpickling?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 ## Pickling

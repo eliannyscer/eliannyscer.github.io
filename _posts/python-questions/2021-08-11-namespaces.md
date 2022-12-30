@@ -1,7 +1,7 @@
 ---
 title: "What is namespace in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Namespaces make our programs immune from name conflicts

@@ -1,7 +1,7 @@
 ---
 title: "What is Polymorphism in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 `Polymorphism` - The word means having many forms.

@@ -1,7 +1,7 @@
 ---
 title: "What is the difference between range and xrange?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 The principal difference is that `range` returns a Python `list` object and `xrange` returns an `xrange` object.

@@ -1,7 +1,7 @@
 ---
 title: "Python is interpreted language. what does it mean?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 ## Interpreted vs compiled language

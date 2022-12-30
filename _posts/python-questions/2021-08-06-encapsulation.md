@@ -1,7 +1,7 @@
 ---
 title: "What is encapsulation in Python"
 tags:
-  - Python questions
+  - Python question
 ---
 
 `Encapsulation` - Restrict the access to methods or variables. This can prevent the data from being modified or accessing accidentally, but not intentionally.

@@ -1,7 +1,7 @@
 ---
 title: "How to import modules in python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Python modules can get access to code from another module by importing the file/function using the keyword `import`. You can do it in different  ways:

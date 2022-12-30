@@ -1,7 +1,7 @@
 ---
 title: "How to count the number of capital letters in a file?"
 tags:
-  - Python exercises
+  - Python exercise
 ---
 
 Your code should work even if the file is too big to fit in memory.

@@ -1,7 +1,7 @@
 ---
 title: "Does python support multiple inheritance?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Yes, Python supports multiple inheritance.

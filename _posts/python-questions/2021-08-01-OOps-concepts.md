@@ -1,7 +1,7 @@
 ---
 title: "Does Python have OOP's concepts?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Yes, like other general purpose programming languages`(Java, C++. C#, Ruby)`, Python is also an `object-oriented` language. It allows us to design programs using classes and objects.

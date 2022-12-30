@@ -1,7 +1,7 @@
 ---
 title: "Does python make use of access specifiers?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Yes, access specifiers or access modifiers in python programming are used to `limit the access` of class variables and class methods outside of class while implementing the concepts of inheritance. This can be achieved by: Public, Private and Protected keyword.

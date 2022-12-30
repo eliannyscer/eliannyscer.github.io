@@ -1,7 +1,7 @@
 ---
 title: "What type of language is python? Programming or scripting?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 After this question probably you are wondering what is the difference between programming and scripting language?.

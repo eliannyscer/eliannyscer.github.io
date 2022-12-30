@@ -1,7 +1,7 @@
 ---
 title: "What is the purpose of is not and in operators?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 Operators are special functions. They take one or more values and produce a corresponding result.

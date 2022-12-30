@@ -1,7 +1,7 @@
 ---
 title: "What is monkey patching in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 It is a dynamic (run-time) technique in Python by which you can modify the behavior of an existing class or module.

@@ -1,7 +1,7 @@
 ---
 title: "What is the difference between deep and shallow copy?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 ![Shallow and deep copy](https://miro.medium.com/max/1616/1*600VH4fZWf3oJB2EaZAPjg.png)

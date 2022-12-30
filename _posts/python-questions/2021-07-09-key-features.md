@@ -1,7 +1,7 @@
 ---
 title: "What are the key features of Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 * Python is an interpreted language. That means that is a simple language, it does not need to be compiled before it is run.

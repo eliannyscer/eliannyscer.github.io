@@ -1,7 +1,7 @@
 ---
 title: "What are local variables and global variables in Python?"
 tags:
-  - Python questions
+  - Python question
 ---
 
 ## Global variable
