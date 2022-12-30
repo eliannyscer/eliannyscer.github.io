@@ -1,7 +1,7 @@
 ---
 title: "What is the process of compilation and linking in python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 The compiling and linking allows the new extensions to be compiled properly without any error and the linking can be done only when it passes the compiled procedure.

@@ -1,7 +1,7 @@
 ---
 title: "What are the generators in python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 It is Functions that return iterable items to do it use the `yield keyword` instead than `return`. If the body of a `def` function contains `yield`, the function automatically becomes a generator function.

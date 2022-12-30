@@ -1,7 +1,7 @@
 ---
 title: "What is the difference between Python Arrays and lists?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 They are similar because an array is also a data structure that stores a collection of items. Like lists, arrays are ordered, mutable, enclosed in square brackets, and able to store non-unique items.

@@ -1,7 +1,7 @@
 ---
 title: "How to install Python on Windows and set path variable?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 * [Install python](https://www.python.org/downloads/)

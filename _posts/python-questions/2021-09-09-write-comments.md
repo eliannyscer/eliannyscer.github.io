@@ -1,7 +1,7 @@
 ---
 title: "How do you write comments in python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 A single line comment can be added by using the `hash (#)`character. The `hash (#)` is added for every line that should be commented.

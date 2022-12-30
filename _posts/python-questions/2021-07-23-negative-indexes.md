@@ -1,7 +1,7 @@
 ---
 title: "What are negative indexes and why are they used?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 Python programming language `supports negative indexing of arrays(list)`, something which is not available in arrays in most other programming languages.

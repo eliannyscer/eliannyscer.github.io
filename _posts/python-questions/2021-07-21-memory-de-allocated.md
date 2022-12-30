@@ -2,7 +2,7 @@
 title: "
 Whenever Python exits, why isn’t all the memory de-allocated?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 Python modules are not always de-allocated when Python exits.

@@ -1,7 +1,7 @@
 ---
 title: "How will you capitalize the first letter of string?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 ## Capitalize()

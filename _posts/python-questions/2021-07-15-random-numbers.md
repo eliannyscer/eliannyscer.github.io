@@ -1,7 +1,7 @@
 ---
 title: "How can you generate random numbers in Python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 Random module is the standard module that is used to generate a random numbers.

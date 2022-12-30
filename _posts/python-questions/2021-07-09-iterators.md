@@ -1,7 +1,7 @@
 ---
 title: "What are python iterators?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 * An `iterable` is any object that can return an iterator and an `iterator` is the object used to iterate over an iterable object.

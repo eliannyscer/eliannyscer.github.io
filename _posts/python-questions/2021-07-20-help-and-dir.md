@@ -1,7 +1,7 @@
 ---
 title: "What is the usage of help() and dir() function in Python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 `help() function` - It is used to display the `documentation` string and also facilitates you to see the help related to modules, keywords, attributes, etc.

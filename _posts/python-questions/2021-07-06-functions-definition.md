@@ -1,7 +1,7 @@
 ---
 title: "What are functions in Python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 * A function is a block of code which only run when it is called.

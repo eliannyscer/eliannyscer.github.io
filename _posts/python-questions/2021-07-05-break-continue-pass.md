@@ -1,7 +1,7 @@
 ---
 title: "How does break, continue and pass work?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 * `Break` - It finish the current loop. Use the break statement to come out of the loop instantly.

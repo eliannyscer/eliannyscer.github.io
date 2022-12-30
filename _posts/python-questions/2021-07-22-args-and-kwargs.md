@@ -1,7 +1,7 @@
 ---
 title: "What does this mean: *args, **kwargs? And why would we use it?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 Putting `*args` and/or `**kwargs` as the last items in your function definition’s argument list `allows` that function to accept an `arbitrary` number of arguments and/or keyword arguments.

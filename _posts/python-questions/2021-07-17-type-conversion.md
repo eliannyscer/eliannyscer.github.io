@@ -1,7 +1,7 @@
 ---
 title: "What is type conversion in Python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 It convert one data type to another.

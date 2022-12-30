@@ -1,7 +1,7 @@
 ---
 title: "How to add values to a python array?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 ## Append

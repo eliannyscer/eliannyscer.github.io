@@ -1,7 +1,7 @@
 ---
 title: "How is Multithreading achieved in Python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 * Python has a construct called the `Global Interpreter Lock` (GIL). The GIL makes sure that only one of your `threads` can execute at any one time. A thread acquires the GIL, does a little work, then passes the GIL onto the next thread.

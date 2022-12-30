@@ -1,7 +1,7 @@
 ---
 title: "Is indentation required in python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 Yes, it is necessary because specifies a block of code. It is a way of telling a Python interpreter that a group of statements belongs to a particular block of code.

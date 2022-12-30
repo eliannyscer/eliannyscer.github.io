@@ -1,7 +1,7 @@
 ---
 title: "How to comment multiple lines in python?"
 tags:
-  - Python FAQ
+  - Python questions
 ---
 
 Python does not really have a syntax for multi line comments. To add a multiline comment you could insert a `#` for each line.
